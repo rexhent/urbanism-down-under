@@ -1,4 +1,4 @@
-<template class="prose m-auto slide-enter-content">
+<template prose="~" m="auto" slide="enter-content">
   <main>
     <ContentDoc />
   </main>
@@ -7,4 +7,4 @@
 main {
   font-family: 'Inter', sans-serif;
 }
-</style>
+</style>  

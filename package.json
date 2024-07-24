@@ -10,12 +10,18 @@
   "dependencies": {
     "@nuxt/content": "^2.13.1",
     "@nuxt/fonts": "^0.7.1",
+    "@nuxt/image": "^1.7.0",
     "@nuxthub/core": "^0.7.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
     "nuxt": "^3.12.4"
   },
   "devDependencies": {
     "@nuxtjs/color-mode": "^3.4.2",
+    "@onu-ui/preset": "1.0.14-beta.2",
     "@unocss/nuxt": "^0.61.5",
-    "typescript": "^5.5.4"
+    "@unocss/preset-typography": "^0.61.5",
+    "typescript": "^5.5.4",
+    "unocss": "^0.61.5"
   }
 }
