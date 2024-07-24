@@ -1,7 +1,6 @@
 <template>
   <div>
     <NavBar />
-    <h1>Urbanism Down Under</h1>
     <NuxtPage />
   </div>
 </template>

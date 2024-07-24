@@ -1,6 +1,14 @@
 <template>
     <NuxtLink to="/articles">Articles</NuxtLink>
 
+    <!-- pages/index.vue -->
+
+  <div>
+    <h1>Welcome to My Nuxt Content Site</h1>
+    <PageList />
+  </div>
+
+
 <!--     
     <div class="flex-grow px-4 py-2 md:px-12 md:py-4 w-full">
     <header class="leading-none mt-[5vw] mb-[1vw]">
