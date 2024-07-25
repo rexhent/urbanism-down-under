@@ -7,7 +7,7 @@
 </template>
 <script setup lang="ts">
 const colorMode = useColorMode()
-const theme: Ref<string> = ref("")
+const theme: Ref<string> = ref("🌙")
 
 onMounted(() => {
     if (colorMode.preference == "dark") {
