@@ -20,7 +20,9 @@ export default defineNuxtConfig({
   ],
 
   routeRules: {
-    '/': { prerender: true }
+    '/articles/': { prerender: true },
+    "/": { prerender: true },
+    "/about": {prerender: true}
   },
   compatibilityDate: '2024-07-23'
 })
